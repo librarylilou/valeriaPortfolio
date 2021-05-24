@@ -1,0 +1,21 @@
+body{
+    font-family: 'Gayathri', sans-serif;
+}
+h1{
+    text-indent: 15%;
+}
+img{
+    margin-top: 5%;
+    position:absolute;
+}
+
+#contactInfo{
+text-align:center;
+color:black;
+position: relative;
+top: 60%;
+left: 180%;
+font-family: 'Gayathri', sans-serif;
+}
+
+ 
